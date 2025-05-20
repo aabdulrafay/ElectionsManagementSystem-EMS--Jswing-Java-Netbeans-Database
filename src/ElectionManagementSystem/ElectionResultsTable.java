@@ -1,0 +1,5 @@
+package ElectionManagementSystem;
+
+class ElectionResultsTable {
+    
+}
