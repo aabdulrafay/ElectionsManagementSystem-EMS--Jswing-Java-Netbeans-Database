@@ -12,8 +12,6 @@ The **Elections Management System (EMS)** is a robust Java-based desktop applica
 | Hassan Zahid | 54481  |
 | Abdul Rafay  | 53325  |
 
-> ℹ️ If the second "Abdul Rafay" is a typo or should be a different name, feel free to correct it.
-
 ---
 
 ## 🚀 Project Overview
